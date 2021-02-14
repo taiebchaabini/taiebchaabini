@@ -34,7 +34,7 @@ VR | [360 Video Tour](https://github.com/taiebchaabini/holbertonschool-unity/tre
 
 💬 Please feel free to contact me on:
 
-LinkedIn: linkedin.com/in/taiebchaabini
+LinkedIn: [linkedin.com/in/taiebchaabini](linkedin.com/in/taiebchaabini)
 
 Email: taiebchaabini@gmail.com
 
