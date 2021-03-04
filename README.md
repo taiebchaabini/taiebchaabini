@@ -2,7 +2,7 @@
 
 ### Please feel free to take a look at my latest projects:
 
-### Academic Projects:
+### Academic Projects on Unity:
 
 Type     | Name     | Description | Tech used
 -- | -- | -- | --
