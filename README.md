@@ -16,7 +16,7 @@ VR | [VR Room](https://github.com/taiebchaabini/0x0B-unity-vr_room) | Escape roo
 
 
 🔭 I’m currently working on:
-- Augmented reality game
+- Last year project
 - Improving my "Escape room game" in virtual reality
 - Student platform for Holberton School
 
