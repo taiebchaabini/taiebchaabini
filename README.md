@@ -37,7 +37,7 @@ VR | [VR Room](https://github.com/taiebchaabini/0x0B-unity-vr_room) | Escape roo
 
 LinkedIn: [linkedin.com/in/taiebchaabini](linkedin.com/in/taiebchaabini)
 
-Email: taiebchaabini@gmail.com
+Email: taiebchaabini@holbertonschool.com
 
 <!--
 **taiebchaabini/taiebchaabini** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
