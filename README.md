@@ -14,12 +14,7 @@ VR | [VR Room](https://github.com/taiebchaabini/0x0B-unity-vr_room) | Escape roo
 
 
 
-
-🔭 I’m currently working on:
-- Last year project
-
 🌱 I’m currently learning:
-- NodeJS
 - ReactJS
 - C++
 
