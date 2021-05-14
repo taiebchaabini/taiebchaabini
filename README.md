@@ -6,7 +6,7 @@
 
 Type     | Name     | Description | Tech used
 -- | -- | -- | --
-VR | [Project X](#) | In this game, the player will experience fighting waves of enemies in anarena that changes over time. In addition to the expected weapons, players will be given some goofier options to play around with.  | C#, Unity, Oculus SDK, VR, OpenXR, XR Toolkit package
+VR | [Project X](#) | In this game, the player will experience fighting waves of enemies in an arena that changes over time. In addition to the expected weapons, players will be given some goofier options to play around with.  | C#, Unity, Oculus SDK, VR, OpenXR, XR Toolkit package
 VR | [VR Room](https://github.com/taiebchaabini/0x0B-unity-vr_room) | Escape room where the player should discover clues, solve puzzles, and accomplish tasks in two rooms in order to progress and escape in a limited amount of time.  | C#, Unity, Oculus SDK, VR
 3D | [Platformer 3D](https://github.com/taiebchaabini/holbertonschool-unity/blob/master/0x08-unity-audio/) | 3D Game where the player starts on an island and should reach the flag to pass the current level, the game is built on 3 levels, from the easiest to the hardest one. | C#, Unity
 <!---VR | [360 Video Tour](https://github.com/taiebchaabini/holbertonschool-unity/tree/master/0x0A-unity-360_video_tour) | A 360 video tour VR experience of Holberton San Francisco campus | C#, Unity, Oculus SDK, VR
